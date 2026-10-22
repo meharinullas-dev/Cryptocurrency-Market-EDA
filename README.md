@@ -89,6 +89,6 @@ An internet connection is required to retrieve current market data and the excha
 
 **Meharin Ullas**
 
-BCA Graduate | Aspiring Data Analyst
+BCA Graduate 
 
 GitHub: [meharinullas-dev](https://github.com/meharinullas-dev)
